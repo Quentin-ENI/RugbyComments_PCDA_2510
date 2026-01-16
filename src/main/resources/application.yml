@@ -1,0 +1,8 @@
+spring:
+  mongodb:
+    username: sa
+    password: Passw0rd
+    host: localhost
+    port: 27017
+    database: Demo_ENI_Ecole
+    authentication-database: admin
